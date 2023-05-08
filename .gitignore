@@ -3,6 +3,8 @@
 .idea
 .gradle
 gradle
+build
+
 *.iws
 *.iml
 *.ipr
